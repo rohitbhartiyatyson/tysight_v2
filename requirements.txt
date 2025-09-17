@@ -1,0 +1,4 @@
+pyyaml
+jinja2
+python-json-logger
+rich
