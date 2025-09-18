@@ -10,5 +10,6 @@
     "last_port": null,
     "log": null
   },
-  "updated_at": "2025-09-18T02:47:14.536223+00:00"
+  "updated_at": "2025-09-18T02:47:14.536223+00:00",
+  "fix_ci_pr": "https://github.com/rohitbhartiyatyson/tysight_v2/pull/4"
 }
