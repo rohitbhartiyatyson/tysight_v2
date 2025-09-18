@@ -1,4 +1,4 @@
-# Insight Agent – Starter Capsule (2025-09-18T01:46:53.897189+00:00)
+# Insight Agent – Starter Capsule (2025-09-18T02:15:58.382256+00:00)
 
 Objective
 
@@ -24,8 +24,8 @@ Pending next
 
 Current status
 
-- Branch: feat/bootstrap-rails
-- HEAD: 330ac4cfc1af2b4ce9a3a82875f7e3b7db02d2ba
+- Branch: feat/ui-shell
+- HEAD: cc2ddfef138dc9272e028e4acb4318db26386f47
 - CI: smoke: unknown, e2e: unknown
 - UI: n/a
 - Last run: n/a
