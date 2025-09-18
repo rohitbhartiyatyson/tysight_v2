@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+pyproject.toml
+insight_agent/__init__.py
+insight_agent.egg-info/PKG-INFO
+insight_agent.egg-info/SOURCES.txt
+insight_agent.egg-info/dependency_links.txt
+insight_agent.egg-info/top_level.txt
