@@ -1,4 +1,4 @@
-# Insight Agent – Starter Capsule (2025-09-18T02:01:47.657184+00:00)
+# Insight Agent – Starter Capsule (2025-09-18T02:04:43.243727+00:00)
 
 Objective
 
@@ -25,7 +25,7 @@ Pending next
 Current status
 
 - Branch: feat/ci-and-bundle
-- HEAD: a28dd1a19d444ab5b3fc0630adf0467efeb3c502
+- HEAD: e5548e7dc4c6d18738256b83f9c4e0e5e4b19f8e
 - CI: smoke: unknown, e2e: unknown
 - UI: n/a
 - Last run: n/a
