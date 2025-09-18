@@ -1,6 +1,6 @@
 {
-  "repo_head": "e5548e7dc4c6d18738256b83f9c4e0e5e4b19f8e",
-  "branch": "feat/ci-and-bundle",
+  "repo_head": "ac588875b0737a68d9bf3bbfaf72cef5813361b8",
+  "branch": "fix/ci-artifacts",
   "ci": {
     "smoke": "unknown",
     "e2e": "unknown"
@@ -10,5 +10,5 @@
     "last_port": null,
     "log": null
   },
-  "updated_at": "2025-09-18T02:04:43.222217+00:00"
+  "updated_at": "2025-09-18T02:47:14.536223+00:00"
 }
