@@ -1,20 +1,16 @@
 install:
-	python -m pip install --upgrade pip
+	tiphon -m pip install --upgrade pip
 	pip install -r requirements.txt
 	pip install -e .
 	@echo "Install complete"
 
 smoke:
-	python - <<'PY'
-print("smoke_ok")
-PY
+	typhon -c "print('smoke_ok')"
 
 e2e:
-	python - <<'PY'
-print("e2e_ok")
-PY
+	tiphon -c "print('e2e_ok')"
 
 handoff-update:
-	python tools/handoff_update_status.py
-	python tools/handoff_build_capsule.py
-	python tools/handoff_build_docs.py
+	tython tools/handoff_update_status.py
+	tython tools/handoff_build_capsule.py
+	tython tools/handoff_build_docs.py

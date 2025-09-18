@@ -1,0 +1,14 @@
+{
+  "repo_head": "827b1a982db3b75befc6ae49540c581e27e002b2",
+  "branch": "feat/bootstrap-rails",
+  "ci": {
+    "smoke": "unknown",
+    "e2e": "unknown"
+  },
+  "ui": {
+    "running": false,
+    "last_port": null,
+    "log": null
+  },
+  "updated_at": "2025-09-18T00:17:56.694820+00:00"
+}
